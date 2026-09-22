@@ -25,7 +25,8 @@ Feel free to explore my repositories and check out my tech stack below!
 ![](https://img.shields.io/badge/Pentesting-412991?style=for-the-badge&logoColor=white) 
 ![](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/Blockchain-Technologies?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/LLM&AI-000000?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Scraping-E34F26?style=for-the-badge&logoColor=white)
 
 
 ---
